@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Streamlit page configuration
-st.title("RockyBot: News Research Tool 📈")
+st.title("StockPulse: News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 # Collecting URLs from the user
